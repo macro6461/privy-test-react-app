@@ -1,7 +1,7 @@
 {
     "name": "privy-test-react-app",
     "private": true,
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "This is my test react app using vite for leveraging privy authentication.",
     "repository": "https://github.com/macro6461/privy-test-react-app",
     "author": {
